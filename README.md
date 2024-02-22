@@ -30,4 +30,11 @@ You will be given the rank and file of many rooks. Your objective is to determin
 
 • Order of the IDs does not matter.
 
+# Sample #1 Input 
 
+```text
+  3
+  1 1
+  5 5
+  6 1
+```
