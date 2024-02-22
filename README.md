@@ -30,7 +30,7 @@ You will be given the rank and file of many rooks. Your objective is to determin
 
 • Order of the IDs does not matter.
 
-## Sample #1 Input 
+## Sample Input: #1
 
 ```text
   3
@@ -38,3 +38,16 @@ You will be given the rank and file of many rooks. Your objective is to determin
   5 5
   6 1
 ```
+
+## Sample Output: #1
+```text
+  1 3
+  0
+  1 1
+```
+Visual-Aid: 
+<img width="163" alt="Screenshot 2024-02-22 at 3 59 24 PM" src="https://github.com/thaovyvle/Chessland-Attacks/assets/122627050/4116a207-39d6-4e9e-9750-4fcc81a636ae">
+
+
+
+
