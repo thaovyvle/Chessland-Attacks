@@ -45,10 +45,32 @@ You will be given the rank and file of many rooks. Your objective is to determin
   0
   1 1
 ```
-Visual-Aid: 
+There are 3 rooks. The grid looks like the following:
 
 <img width="163" alt="Screenshot 2024-02-22 at 3 59 24 PM" src="https://github.com/thaovyvle/Chessland-Attacks/assets/122627050/4116a207-39d6-4e9e-9750-4fcc81a636ae">
 
+Rook 1 and 3 can mutually attack each other. Rook 2 cannot attack anyone.
+
+## Sample Input: #2
+
+```text
+  4
+  1 1
+  2 1
+  4 1
+  2 2
+```
+
+## Sample Output: #2
+```text
+  1 2
+  3 3 1 4
+  1 2
+  1 2
+```
+Visual-Aid: 
+
+<img width="86" alt="Screenshot 2024-02-22 at 4 01 33 PM" src="https://github.com/thaovyvle/Chessland-Attacks/assets/122627050/3d86a2ec-8065-465b-b82a-a30daa74bffe">
 
 
 
