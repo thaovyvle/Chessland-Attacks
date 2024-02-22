@@ -68,9 +68,9 @@ Rook 1 and 3 can mutually attack each other. Rook 2 cannot attack anyone.
   1 2
   1 2
 ```
-Visual-Aid: 
+There are 4 rooks. The grid looks like the following:
 
 <img width="86" alt="Screenshot 2024-02-22 at 4 01 33 PM" src="https://github.com/thaovyvle/Chessland-Attacks/assets/122627050/3d86a2ec-8065-465b-b82a-a30daa74bffe">
 
-
+Rook 1 and 2 can mutually attack each other. Rook 3 and 2 can mutually attack each other. Rook 4 and 2 can mutually attack each other.
 
