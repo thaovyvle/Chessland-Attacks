@@ -46,6 +46,7 @@ You will be given the rank and file of many rooks. Your objective is to determin
   1 1
 ```
 Visual-Aid: 
+
 <img width="163" alt="Screenshot 2024-02-22 at 3 59 24 PM" src="https://github.com/thaovyvle/Chessland-Attacks/assets/122627050/4116a207-39d6-4e9e-9750-4fcc81a636ae">
 
 
